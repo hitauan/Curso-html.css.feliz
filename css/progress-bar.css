@@ -1,0 +1,9 @@
+.progress-bar {
+    box-sizing: border-box ;
+    background-color: white;
+    border: 5px solid black;
+    height: 25px;
+    width: 200px;
+    margin-top: 120px;
+    padding-bottom: 0px;
+}

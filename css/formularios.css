@@ -1,0 +1,11 @@
+.input {
+    height:20px ;
+    width:500px ;
+    padding: 25px;
+}
+
+svg {
+position: absolute;
+top: 2px;
+left: 2px;
+}

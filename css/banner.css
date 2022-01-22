@@ -1,0 +1,11 @@
+.banner {
+    background-image: url(../../assets/img/wallpaper_logo.jfif);
+    height: 600px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-bottom: 5px solid black;
+}
+.banner .box {
+    margin-top: 30px;
+    margin-left: 20px;
+} 
